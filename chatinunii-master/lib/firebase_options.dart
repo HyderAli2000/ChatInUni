@@ -44,46 +44,44 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBh9MPmP-PfNNl8INDyJcOAPC2bbySOzAo',
-    appId: '1:1007774413971:web:1a8485af55cdf2d7bbc966',
-    messagingSenderId: '1007774413971',
-    projectId: 'chatinuni-d900d',
-    authDomain: 'chatinuni-d900d.firebaseapp.com',
-    databaseURL: 'https://chatinuni-d900d.firebaseio.com',
-    storageBucket: 'chatinuni-d900d.appspot.com',
-    measurementId: 'G-QVEWPT7T91',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    databaseURL: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBfzMTKN8XBeVGKWNqoqcJ-I53USszILB4',
-    appId: '1:1007774413971:android:170cbe0dd3be727bbbc966',
-    messagingSenderId: '1007774413971',
-    projectId: 'chatinuni-d900d',
-    databaseURL: 'https://chatinuni-d900d.firebaseio.com',
-    storageBucket: 'chatinuni-d900d.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCIq6J-J8iSYIIunOAL2SxADsGV79p_LTM',
-    appId: '1:1007774413971:ios:bc5d4f1135599288bbc966',
-    messagingSenderId: '1007774413971',
-    projectId: 'chatinuni-d900d',
-    databaseURL: 'https://chatinuni-d900d.firebaseio.com',
-    storageBucket: 'chatinuni-d900d.appspot.com',
-    iosClientId:
-        '1007774413971-kc2pshjjb016npit6una8g6uctr889mj.apps.googleusercontent.com',
-    iosBundleId: 'com.example.chatinunii',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCIq6J-J8iSYIIunOAL2SxADsGV79p_LTM',
-    appId: '1:1007774413971:ios:bc5d4f1135599288bbc966',
-    messagingSenderId: '1007774413971',
-    projectId: 'chatinuni-d900d',
-    databaseURL: 'https://chatinuni-d900d.firebaseio.com',
-    storageBucket: 'chatinuni-d900d.appspot.com',
-    iosClientId:
-        '1007774413971-kc2pshjjb016npit6una8g6uctr889mj.apps.googleusercontent.com',
-    iosBundleId: 'com.example.chatinunii',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 }
